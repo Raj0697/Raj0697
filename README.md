@@ -16,7 +16,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 # 💫 About Me :
-- 🔭 I’m currently working at PDI Technologies as SDE
+- 🔭 I’m currently looking for an new opportunity in software engineering field and I have 2 years of experience as SDE I
 - 🌱 I’m currently learning Swift and mastering data structures
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with Mastering data structures and algorithms
