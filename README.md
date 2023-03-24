@@ -16,11 +16,11 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 # 💫 About Me :
-- 🔭 I’m currently looking for an new opportunity in software engineering field and I have 2 years of experience as SDE I
-- 🌱 I’m currently learning Swift and mastering data structures
+- 🔭 I’m currently working as an Software Engineer 2 @ Aurigo Software Technologies
+- 🌱 I’m mastering data structures
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with Mastering data structures and algorithms
-- 💬 Ask me about Android development or any tech related stuff
+- 💬 Ask me about Android development, C# .Net, WPF Forms or any tech related stuff
 - 📫 How to reach me: Check Social links below.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Big fan of emoji's
