@@ -16,6 +16,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 # 💫 About Me :
+- Immediate joiner || looking for new role
 - 🔭 I’m currently working as an Software Engineer 2 @ Aurigo Software Technologies
 - 🌱 I’m mastering data structures
 - 👯 I’m looking to collaborate on Youtube
