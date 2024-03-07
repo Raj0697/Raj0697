@@ -17,11 +17,8 @@
 
 # 💫 About Me :
 - Immediate joiner || looking for new role
-- 🔭 I’m currently working as an Software Engineer 2 @ Aurigo Software Technologies
-- 🌱 I’m mastering data structures
-- 👯 I’m looking to collaborate on Youtube
-- 🤔 I’m looking for help with Mastering data structures and algorithms
-- 💬 Ask me about Android development, C# .Net, WPF Forms or any tech related stuff
+- 🔭 I’m currently looking for a new job opportunity in software development (C# .NET, Xamarin forms)
+- 💬 Ask me about Android development, C# .Net, Xamarin forms and xamarin native, WPF Forms or any tech related stuff
 - 📫 How to reach me: Check Social links below.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Big fan of emoji's
