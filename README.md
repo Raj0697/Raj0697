@@ -17,7 +17,7 @@
 
 # 💫 About Me :
 - Immediate joiner || looking for new role
-- 🔭 I’m currently looking for a new job opportunity in software development (C# .NET, Xamarin forms)
+- 🔭 I’m currently looking for a new job opportunity in software development (C# .NET Core, Web API, ASP.Net MVC, Xamarin forms, SQL)
 - 💬 Ask me about Android development, C# .Net, Xamarin forms and xamarin native, WPF Forms or any tech related stuff
 - 📫 How to reach me: Check Social links below.
 - 😄 Pronouns: He/His
