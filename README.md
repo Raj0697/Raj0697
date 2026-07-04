@@ -16,9 +16,9 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 # 💫 About Me :
-- Immediate joiner || looking for new role
-- 🔭 I’m currently looking for a new job opportunity in software development (C# .NET Core, WPF, WCF, MVVM, Winforms, Web API, ASP.Net MVC, Xamarin forms, SQL)
-- 💬 Ask me about Android development, C# .Net, Xamarin forms and xamarin native, WPF Forms or any tech related stuff
+- Immediate joiner || looking for job opportunity
+- 🔭 I’m currently looking for a new job opportunity in software development (C# ASP.NET Core, Angular, Azure DevOps, WPF, WCF, MVVM, Winforms, Web API, ASP.Net MVC, Xamarin forms, SQL)
+- 💬 Ask me about Android development, C# .Net, Angular and xamarin native, WPF Forms or any tech related stuff
 - 📫 How to reach me: Check Social links below.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Big fan of emoji's
