@@ -17,7 +17,7 @@
 
 # 💫 About Me :
 - Immediate joiner || looking for job opportunity
-- 🔭 I’m currently looking for a new job opportunity in software development (C# ASP.NET Core, Angular, Micro Services, EF CORE, Azure DevOps, WPF, WCF, MVVM, Winforms, Web API, ASP.Net MVC, Xamarin forms, SQL)
+- 🔭 I’m currently looking for a new job opportunity in software development (C# .NET Core, Angular, Micro Services, EF CORE, Azure DevOps, WPF, WCF, MVVM, Winforms, Web API, ASP.Net MVC, Xamarin forms, SQL)
 - 💬 Ask me about Android development, C# .Net Core, Angular and xamarin native, WPF Forms or any tech related stuff
 - 📫 How to reach me: Check Social links below.
 - 😄 Pronouns: He/His
